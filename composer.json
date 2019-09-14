@@ -1,5 +1,5 @@
 {
-    "name": "mikolajzieba/pdfparser",
+    "name": "smalot/pdfparser",
     "description": "Pdf parser library. Can read and extract information from pdf file.",
     "keywords": ["PDF", "text", "parser", "parse", "extract"],
     "type": "library",
@@ -11,7 +11,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/mikolajzieba/pdfparser/issues"
+        "issues": "https://github.com/smalot/pdfparser/issues"
     },
     "homepage": "http://www.pdfparser.org",
     "require": {
